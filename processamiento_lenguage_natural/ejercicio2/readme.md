@@ -5,7 +5,7 @@ In this notebook a simple bot was implemented, using NLTK, to suggest the best p
 
 ## Source
 
-This exercise is part of the 1st class of NLP of FIUBA
+This exercise is part of the 2nd class of NLP of FIUBA
 https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural/tree/main/clase_2
 
 ## Prerequisites
